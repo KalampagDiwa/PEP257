@@ -25,7 +25,7 @@ Program Code
 Here's the code for your "Hello World" program in Python:
 
 # This is a simple Hello World program in Python
-print("Hello, World!")
+print("HelloWorld!")
 
 Feel free to explore and modify this code as you learn more about Python programming.
 
